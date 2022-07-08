@@ -12,7 +12,7 @@ import java.util.Random;
 public class GameField extends JPanel implements ActionListener {
     private final int SIZE = 320;
     private final int DOT_SIZE = 16;
-    private  final int ALL_DOTS = 400;
+    private  final int ALL_DOTS = 400; ////123456
 
     private Image dot;
     private Image apple;
